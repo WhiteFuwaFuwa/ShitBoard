@@ -1,4 +1,3 @@
-#C:\Users\gogo_\anaconda3\python.exe
 import cgi
 import cgitb
 cgitb.enable()
